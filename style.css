@@ -5,7 +5,7 @@
     }
 
 .container {
-    background: url("https://static.pexels.com/photos/418299/pexels-photo-418299.jpeg") no-repeat center;
+    background-image: url("https://static.pexels.com/photos/418299/pexels-photo-418299.jpeg") no-repeat center;
     background-size: cover;
     height: 100%;
     width: 100%;
