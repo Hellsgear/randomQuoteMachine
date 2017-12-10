@@ -4,6 +4,10 @@
     margin: 0;
     }
 
+html,body {
+    height: 100%;
+    }
+
 .container {
     background: url("https://static.pexels.com/photos/418299/pexels-photo-418299.jpeg") no-repeat center;
     background-size: cover;
