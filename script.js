@@ -31,6 +31,5 @@ $('#nextQuote').click(function() {
     $('#quote').fadeIn(1000);
     $('#author').fadeIn(1000);
     });
-h
-    });
+    };
     
